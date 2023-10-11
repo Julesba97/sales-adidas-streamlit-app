@@ -21,5 +21,10 @@ Ce projet est une application Streamlit, une plateforme interactive conçue pour
 ```
 L'application sera accessible à l'adresse : 'http://localhost:8501'.
 
+## Démonstration
+https://github.com/Julesba97/sales-adidas-streamlit-app/assets/102261674/d6e36c44-afb6-4f57-9527-819f3921ed0d
+
+
+
 ## Licence 
 Ce projet est sous licence [MIT License](./LICENSE).
