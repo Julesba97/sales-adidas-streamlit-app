@@ -1,0 +1,1201 @@
+[2023-10-07 21:02:02,867: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-07 21:02:02,876: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-07 21:02:02,876: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-07 21:02:07,479: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast']
+[2023-10-07 21:02:07,479: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-07 21:02:07,482: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-07 21:02:09,244: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast', 'West']
+[2023-10-07 21:02:09,244: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-07 21:02:09,244: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-07 21:02:10,307: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast', 'West', 'Southeast']
+[2023-10-07 21:02:10,307: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-07 21:02:10,310: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:54:00,801: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 10:54:00,804: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:54:00,804: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:54:00,814: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:54:00,845: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 10:54:00,848: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:54:00,872: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 10:54:31,234: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 10:54:31,234: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:54:31,237: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:54:31,241: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:54:31,257: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 10:54:31,260: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:54:31,287: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 10:58:28,899: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 10:58:28,899: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:58:28,902: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:58:28,906: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:58:28,916: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 10:58:28,916: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:58:28,943: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 10:58:51,356: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-08 10:58:51,359: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:58:51,359: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:58:51,364: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:58:51,374: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-08 10:58:51,374: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-08 10:58:51,388: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 10:58:56,936: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 10:58:56,937: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:58:56,937: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:58:56,941: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:58:56,957: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 10:58:56,957: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-08 10:58:56,980: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 10:59:03,864: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 10:59:03,864: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:59:03,872: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-08 10:59:03,884: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:59:03,894: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 10:59:03,900: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-08 10:59:03,916: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 10:59:11,297: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 10:59:11,297: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:59:11,297: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:59:11,305: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:59:11,321: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 10:59:11,321: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-08 10:59:11,342: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 10:59:13,423: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 10:59:13,423: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:59:13,423: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:59:13,431: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:59:13,439: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 10:59:13,447: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:59:13,472: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 10:59:48,597: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-08 10:59:48,597: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:59:48,599: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:59:48,603: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:59:48,609: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-08 10:59:48,609: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-08 10:59:48,624: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 10:59:53,289: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 10:59:53,289: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:59:53,292: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 10:59:53,300: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:59:53,305: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 10:59:53,314: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-08 10:59:53,325: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 10:59:57,897: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 10:59:57,897: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 10:59:57,897: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-08 10:59:57,904: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 10:59:57,912: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 10:59:57,912: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-08 10:59:57,929: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:00:00,677: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 11:00:00,677: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:00:00,677: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-08 11:00:00,684: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:00:00,699: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 11:00:00,701: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-08 11:00:00,710: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:00:06,139: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 11:00:06,144: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:00:06,144: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Women's Athletic Footwear"]
+[2023-10-08 11:00:06,149: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:00:06,164: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-08 11:00:06,164: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Women's Athletic Footwear"]
+[2023-10-08 11:00:06,192: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:00:15,030: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:15,033: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:00:15,033: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Women's Athletic Footwear"]
+[2023-10-08 11:00:15,035: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:00:15,051: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:15,051: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Women's Athletic Footwear"]
+[2023-10-08 11:00:15,068: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:00:18,193: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:18,195: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:00:18,196: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Street Footwear", "Women's Athletic Footwear"]
+[2023-10-08 11:00:18,199: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:00:18,211: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:18,211: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Street Footwear", "Women's Athletic Footwear"]
+[2023-10-08 11:00:18,232: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:00:21,129: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:21,131: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:00:21,133: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 11:00:21,144: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:00:21,166: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:21,166: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 11:00:21,180: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:00:35,284: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:35,292: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:00:35,292: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-08 11:00:35,292: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:00:35,311: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:35,311: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-08 11:00:35,333: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:00:37,239: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:37,239: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:00:37,243: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-08 11:00:37,247: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:00:37,268: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:37,268: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-08 11:00:37,289: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:00:40,231: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:40,231: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:00:40,235: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Street Footwear"]
+[2023-10-08 11:00:40,237: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:00:40,246: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:00:40,253: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Street Footwear"]
+[2023-10-08 11:00:40,270: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:09:18,250: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:09:18,254: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:09:18,256: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 11:09:18,261: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:09:18,283: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:09:18,291: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 11:09:18,315: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:15:56,263: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:15:56,265: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:15:56,270: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 11:15:56,280: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:15:56,309: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:15:56,312: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 11:15:56,351: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 11:20:12,453: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:20:12,454: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 11:20:12,454: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 11:20:12,460: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 11:20:12,479: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 11:20:12,484: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 11:20:12,508: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 15:33:11,853: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 15:33:11,864: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 15:33:11,865: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 15:33:11,873: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 15:33:11,912: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 15:33:11,912: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 15:33:11,930: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 15:33:17,668: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 15:33:17,670: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 15:33:17,671: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 15:33:17,676: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 15:33:17,692: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 15:33:17,693: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 15:33:17,715: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 15:34:18,341: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 15:34:18,344: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 15:34:18,345: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 15:34:18,350: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 15:34:18,360: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 15:34:18,362: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 15:34:18,381: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 17:21:08,765: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 17:21:08,770: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 17:21:08,770: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 17:21:08,778: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 17:21:08,822: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 17:21:08,824: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 17:21:08,842: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 19:49:34,067: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 19:49:34,069: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 19:49:34,069: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 19:49:34,072: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 19:49:34,079: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 19:49:34,080: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 19:49:34,090: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 19:52:24,035: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 19:52:24,035: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 19:52:24,035: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 19:52:24,051: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 19:52:24,051: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 19:52:24,066: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 19:52:24,066: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 21:08:46,544: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 21:08:46,569: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 21:08:46,570: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 21:08:46,590: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 21:08:46,636: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 21:08:46,638: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 21:08:46,657: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 22:00:11,361: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 22:00:11,368: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 22:00:11,368: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 22:00:11,374: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 22:00:11,406: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 22:00:11,414: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 22:00:11,436: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 22:03:47,389: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 22:03:47,391: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 22:03:47,391: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 22:03:47,395: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 22:03:47,411: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 22:03:47,416: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 22:03:47,442: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 22:48:29,664: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 22:48:29,681: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 22:48:29,684: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 22:48:29,695: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 22:48:29,731: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 22:48:29,734: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 22:48:29,762: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 22:48:36,223: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 22:48:36,224: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 22:48:36,226: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 22:48:36,231: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 22:48:36,252: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 22:48:36,252: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 22:48:36,277: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-08 22:48:51,491: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 22:48:51,493: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-08 22:48:51,495: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 22:48:51,499: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-08 22:48:51,517: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-08 22:48:51,517: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-08 22:48:51,538: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:13:45,823: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:13:45,837: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-09 00:13:45,839: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:13:45,856: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:13:45,951: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:13:45,951: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:13:45,990: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:20:00,663: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:20:00,667: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-09 00:20:00,667: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:20:00,671: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:20:00,693: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:20:00,695: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:20:00,717: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:20:46,237: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:20:46,237: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-09 00:20:46,251: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:20:46,257: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:20:46,270: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:20:46,270: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:20:46,291: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:29:13,945: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:29:13,945: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-09 00:29:13,945: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:29:13,953: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:29:13,970: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:29:13,970: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:29:13,992: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:32:10,701: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:32:10,706: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-09 00:32:10,708: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:32:10,712: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:32:10,726: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:32:10,728: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:32:10,744: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:32:54,628: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:32:54,628: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:32:54,632: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:32:54,638: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:32:54,642: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Southeast' 'Midwest']
+[2023-10-09 00:32:54,642: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:32:54,670: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:00,021: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:33:00,021: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:33:00,021: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-09 00:33:00,026: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:00,044: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Southeast' 'Midwest']
+[2023-10-09 00:33:00,047: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-09 00:33:00,070: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:03,585: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:33:03,588: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:33:03,589: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Athletic Footwear"]
+[2023-10-09 00:33:03,591: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:03,603: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Southeast' 'Midwest']
+[2023-10-09 00:33:03,604: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Athletic Footwear"]
+[2023-10-09 00:33:03,626: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:13,545: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:33:13,547: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:33:13,547: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:33:13,551: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:13,563: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Southeast' 'Midwest']
+[2023-10-09 00:33:13,563: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:33:13,583: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:18,458: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-09 00:33:18,458: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:33:18,460: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:33:18,464: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:18,473: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-09 00:33:18,473: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-09 00:33:18,497: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:22,526: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-09 00:33:22,526: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:33:22,527: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:33:22,530: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:22,541: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-09 00:33:22,545: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-09 00:33:22,575: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:24,870: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Northeast']
+[2023-10-09 00:33:24,870: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:33:24,873: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:33:24,876: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:24,908: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Northeast']
+[2023-10-09 00:33:24,909: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:33:24,924: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:29,967: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Northeast', 'Southeast']
+[2023-10-09 00:33:29,969: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:33:29,969: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:33:29,973: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:29,989: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Northeast', 'Southeast']
+[2023-10-09 00:33:29,992: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:33:30,008: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:34,522: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Northeast', 'Southeast']
+[2023-10-09 00:33:34,525: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:33:34,525: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-09 00:33:34,526: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:34,548: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Northeast', 'Southeast']
+[2023-10-09 00:33:34,548: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-09 00:33:34,560: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:37,392: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Northeast', 'Southeast']
+[2023-10-09 00:33:37,392: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:33:37,394: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:33:37,397: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:37,405: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Northeast', 'Southeast']
+[2023-10-09 00:33:37,405: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:33:37,431: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:43,138: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:33:43,139: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:33:43,147: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:33:43,151: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:43,162: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Southeast' 'Midwest']
+[2023-10-09 00:33:43,163: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:33:43,173: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:44,756: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:33:44,759: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-09 00:33:44,759: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:33:44,763: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:44,774: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:33:44,778: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:33:44,790: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:33:45,913: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:33:45,914: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-09 00:33:45,914: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:33:45,920: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:33:45,936: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:33:45,936: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-09 00:33:45,947: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:34:46,858: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:34:46,858: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-09 00:34:46,858: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-09 00:34:46,866: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:34:46,877: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:34:46,882: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-09 00:34:46,898: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:34:49,546: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:34:49,549: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-09 00:34:49,549: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:34:49,554: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:34:49,569: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:34:49,569: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:34:49,589: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:34:55,464: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:34:55,468: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:34:55,468: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:34:55,471: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:34:55,477: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Southeast' 'Midwest']
+[2023-10-09 00:34:55,477: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:34:55,493: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:34:59,551: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:34:59,553: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020, 2021]
+[2023-10-09 00:34:59,553: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:34:59,560: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:34:59,571: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:34:59,576: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:34:59,597: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:35:02,593: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-09 00:35:02,593: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:35:02,593: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:02,598: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:35:02,603: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Southeast' 'Midwest']
+[2023-10-09 00:35:02,607: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:02,623: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:35:05,480: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast']
+[2023-10-09 00:35:05,480: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:35:05,480: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:05,483: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:35:05,492: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast']
+[2023-10-09 00:35:05,492: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:05,512: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:35:08,136: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South']
+[2023-10-09 00:35:08,136: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:35:08,141: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:08,142: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:35:08,150: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South']
+[2023-10-09 00:35:08,158: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:08,183: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:35:11,621: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South', 'Midwest']
+[2023-10-09 00:35:11,622: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:35:11,622: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:11,626: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:35:11,639: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South', 'Midwest']
+[2023-10-09 00:35:11,640: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:11,662: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:35:15,574: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South', 'Midwest', 'Northeast']
+[2023-10-09 00:35:15,574: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-09 00:35:15,574: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:15,582: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:35:15,590: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South', 'Midwest', 'Northeast']
+[2023-10-09 00:35:15,594: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:15,621: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:35:24,354: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South', 'Midwest', 'Northeast']
+[2023-10-09 00:35:24,356: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-09 00:35:24,356: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:24,359: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:35:24,374: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South', 'Midwest', 'Northeast']
+[2023-10-09 00:35:24,374: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:24,394: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-09 00:35:26,865: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South', 'Midwest', 'Northeast']
+[2023-10-09 00:35:26,868: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021]
+[2023-10-09 00:35:26,868: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:26,874: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-09 00:35:26,886: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South', 'Midwest', 'Northeast']
+[2023-10-09 00:35:26,887: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-09 00:35:26,905: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 14:57:33,616: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 14:57:33,617: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 14:57:33,618: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 14:57:33,622: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 14:57:33,645: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 14:57:33,647: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 14:57:33,664: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 14:58:13,157: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:13,157: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 14:58:13,158: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 14:58:13,160: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 14:58:13,164: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:13,165: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 14:58:13,179: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 14:58:27,969: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:27,969: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021]
+[2023-10-11 14:58:27,970: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 14:58:27,972: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 14:58:27,978: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:27,979: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 14:58:27,987: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 14:58:32,064: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:32,065: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 14:58:32,065: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 14:58:32,069: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 14:58:32,075: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:32,076: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 14:58:32,087: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 14:58:36,043: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:36,045: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 14:58:36,046: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-11 14:58:36,048: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 14:58:36,054: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:36,054: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-11 14:58:36,060: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 14:58:39,341: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:39,342: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 14:58:39,343: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Athletic Footwear"]
+[2023-10-11 14:58:39,345: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 14:58:39,350: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:39,351: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Athletic Footwear"]
+[2023-10-11 14:58:39,360: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 14:58:41,976: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:41,977: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 14:58:41,978: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Athletic Footwear", "Men's Athletic Footwear"]
+[2023-10-11 14:58:41,981: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 14:58:41,986: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 14:58:41,987: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Athletic Footwear", "Men's Athletic Footwear"]
+[2023-10-11 14:58:41,996: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 14:58:45,576: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 14:58:45,576: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 14:58:45,577: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Athletic Footwear", "Men's Athletic Footwear"]
+[2023-10-11 14:58:45,579: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 14:58:45,584: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 14:58:45,585: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Athletic Footwear", "Men's Athletic Footwear"]
+[2023-10-11 14:58:45,595: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 14:59:37,261: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 14:59:37,263: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 14:59:37,264: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 14:59:37,270: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 14:59:37,280: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 14:59:37,282: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 14:59:37,295: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 14:59:40,665: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 14:59:40,666: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 14:59:40,667: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 14:59:40,670: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 14:59:40,682: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 14:59:40,683: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 14:59:40,697: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 15:00:08,751: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 15:00:08,751: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 15:00:08,755: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 15:00:08,758: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 15:00:08,764: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 15:00:08,765: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 15:00:08,777: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 17:58:53,166: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 17:58:53,168: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 17:58:53,170: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 17:58:53,174: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 17:58:53,218: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 17:58:53,218: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 17:58:53,243: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 17:59:19,893: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 17:59:19,895: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 17:59:19,895: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 17:59:19,898: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 17:59:19,905: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 17:59:19,914: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 17:59:19,938: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 17:59:22,831: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:22,831: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 17:59:22,831: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 17:59:22,839: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 17:59:22,855: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:22,855: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 17:59:22,868: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 17:59:31,377: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:31,377: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021]
+[2023-10-11 17:59:31,381: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 17:59:31,384: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 17:59:31,400: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:31,400: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 17:59:31,415: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 17:59:34,605: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:34,607: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021, 2020]
+[2023-10-11 17:59:34,607: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 17:59:34,610: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 17:59:34,623: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:34,625: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 17:59:34,640: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 17:59:36,451: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:36,451: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021]
+[2023-10-11 17:59:36,451: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 17:59:36,458: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 17:59:36,472: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:36,472: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 17:59:36,490: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 17:59:45,765: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:45,765: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021]
+[2023-10-11 17:59:45,765: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-11 17:59:45,770: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 17:59:45,784: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:45,786: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-11 17:59:45,807: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 17:59:50,066: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:50,069: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021]
+[2023-10-11 17:59:50,069: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-11 17:59:50,080: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 17:59:50,090: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:50,092: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-11 17:59:50,112: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 17:59:52,227: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:52,227: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021]
+[2023-10-11 17:59:52,227: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Apparel"]
+[2023-10-11 17:59:52,227: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 17:59:52,245: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:52,245: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Apparel"]
+[2023-10-11 17:59:52,260: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 17:59:59,946: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:59,948: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021]
+[2023-10-11 17:59:59,948: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Apparel", "Men's Athletic Footwear"]
+[2023-10-11 17:59:59,951: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 17:59:59,965: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Northeast']
+[2023-10-11 17:59:59,965: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Apparel", "Men's Athletic Footwear"]
+[2023-10-11 17:59:59,984: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:03,584: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:03,584: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021]
+[2023-10-11 18:00:03,584: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Apparel", "Men's Athletic Footwear"]
+[2023-10-11 18:00:03,589: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:03,607: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['West' 'Midwest' 'South' 'Northeast' 'Southeast']
+[2023-10-11 18:00:03,609: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Apparel", "Men's Athletic Footwear"]
+[2023-10-11 18:00:03,627: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:05,457: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:05,460: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:05,460: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Apparel", "Men's Athletic Footwear"]
+[2023-10-11 18:00:05,462: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:05,477: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:05,481: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Apparel", "Men's Athletic Footwear"]
+[2023-10-11 18:00:05,499: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:08,815: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:08,816: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:08,818: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Street Footwear", "Men's Apparel", "Men's Athletic Footwear"]
+[2023-10-11 18:00:08,822: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:08,838: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:08,838: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Street Footwear", "Men's Apparel", "Men's Athletic Footwear"]
+[2023-10-11 18:00:08,855: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:11,776: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:11,777: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:11,777: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 18:00:11,782: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:11,801: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:11,801: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 18:00:11,826: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:15,384: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:15,386: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-11 18:00:15,386: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 18:00:15,389: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:15,403: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Southeast' 'Midwest']
+[2023-10-11 18:00:15,403: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 18:00:15,426: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:19,929: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:19,931: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:19,931: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 18:00:19,937: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:19,958: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:19,961: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 18:00:19,979: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:25,579: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:25,579: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:25,579: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-11 18:00:25,579: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:25,589: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:25,594: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-11 18:00:25,610: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:27,640: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:27,640: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:27,642: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-11 18:00:27,647: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:27,663: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:27,666: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-11 18:00:27,684: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:29,625: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:29,626: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:29,628: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Athletic Footwear"]
+[2023-10-11 18:00:29,632: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:29,646: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:29,646: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Athletic Footwear"]
+[2023-10-11 18:00:29,668: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:40,917: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 18:00:40,917: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:40,917: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Athletic Footwear"]
+[2023-10-11 18:00:40,925: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:40,938: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 18:00:40,940: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Athletic Footwear"]
+[2023-10-11 18:00:40,952: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:43,457: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Southeast']
+[2023-10-11 18:00:43,459: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:43,459: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Athletic Footwear"]
+[2023-10-11 18:00:43,462: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:43,474: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Southeast']
+[2023-10-11 18:00:43,477: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Athletic Footwear"]
+[2023-10-11 18:00:43,494: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:45,273: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:45,322: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:45,329: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Athletic Footwear"]
+[2023-10-11 18:00:45,349: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:45,371: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:45,386: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Athletic Footwear"]
+[2023-10-11 18:00:45,413: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:00:48,270: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:48,272: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:00:48,274: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 18:00:48,280: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:00:48,296: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:00:48,299: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 18:00:48,320: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 18:05:19,929: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:05:19,932: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 18:05:19,932: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 18:05:19,939: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 18:05:19,984: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 18:05:19,984: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 18:05:20,006: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:23:47,071: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:23:47,074: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:23:47,075: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:23:47,082: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:23:47,108: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:23:47,109: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:23:47,125: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:25:37,040: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 21:25:37,041: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:25:37,042: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:25:37,044: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:25:37,053: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 21:25:37,055: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:25:37,062: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:25:39,664: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:25:39,665: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:25:39,666: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:25:39,670: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:25:39,680: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:25:39,681: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:25:39,696: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:25:49,894: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:25:49,895: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:25:49,895: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel"]
+[2023-10-11 21:25:49,897: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:25:49,901: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:25:49,901: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel"]
+[2023-10-11 21:25:49,911: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:25:52,197: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:25:52,199: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:25:52,200: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel", "Women's Street Footwear"]
+[2023-10-11 21:25:52,202: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:25:52,207: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:25:52,208: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel", "Women's Street Footwear"]
+[2023-10-11 21:25:52,214: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:25:55,642: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:25:55,643: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:25:55,643: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel", "Women's Street Footwear", "Women's Athletic Footwear"]
+[2023-10-11 21:25:55,647: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:25:55,660: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:25:55,661: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel", "Women's Street Footwear", "Women's Athletic Footwear"]
+[2023-10-11 21:25:55,670: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:25:58,576: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:25:58,577: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:25:58,577: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel", "Women's Street Footwear", "Women's Athletic Footwear", "Men's Street Footwear"]
+[2023-10-11 21:25:58,583: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:25:58,593: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:25:58,594: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel", "Women's Street Footwear", "Women's Athletic Footwear", "Men's Street Footwear"]
+[2023-10-11 21:25:58,602: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:01,374: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:01,375: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:01,375: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel", "Women's Street Footwear", "Women's Athletic Footwear", "Men's Street Footwear"]
+[2023-10-11 21:26:01,378: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:01,397: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:01,397: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel", "Women's Street Footwear", "Women's Athletic Footwear", "Men's Street Footwear"]
+[2023-10-11 21:26:01,409: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:10,511: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:10,512: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:10,514: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:10,520: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:10,532: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:10,534: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:10,544: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:14,897: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 21:26:14,898: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:14,899: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:14,904: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:14,909: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South']
+[2023-10-11 21:26:14,910: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:26:14,931: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:16,636: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:26:16,637: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:16,638: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:16,641: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:16,649: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest']
+[2023-10-11 21:26:16,650: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:26:16,659: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:18,552: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Southeast']
+[2023-10-11 21:26:18,554: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:18,555: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:18,558: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:18,567: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Southeast']
+[2023-10-11 21:26:18,568: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:26:18,576: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:25,276: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Southeast']
+[2023-10-11 21:26:25,277: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020]
+[2023-10-11 21:26:25,279: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:25,281: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:25,288: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Southeast']
+[2023-10-11 21:26:25,289: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:26:25,301: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:28,224: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Southeast']
+[2023-10-11 21:26:28,228: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:28,229: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:28,233: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:28,240: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Southeast']
+[2023-10-11 21:26:28,241: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:26:28,291: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:29,935: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Southeast']
+[2023-10-11 21:26:29,936: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2021]
+[2023-10-11 21:26:29,936: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:29,941: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:29,951: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Southeast']
+[2023-10-11 21:26:29,953: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:26:29,963: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:36,841: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Southeast']
+[2023-10-11 21:26:36,842: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:36,843: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:36,849: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:36,858: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['South', 'Midwest', 'Southeast']
+[2023-10-11 21:26:36,858: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:26:36,870: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:38,875: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:38,876: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:38,877: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:38,883: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:38,893: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:38,894: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:38,906: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:43,207: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:43,208: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:43,208: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-11 21:26:43,212: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:43,220: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:43,221: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-11 21:26:43,231: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:46,468: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:46,469: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:46,470: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-11 21:26:46,473: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:46,478: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:46,480: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-11 21:26:46,493: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:48,740: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:48,741: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:48,741: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Athletic Footwear"]
+[2023-10-11 21:26:48,745: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:48,756: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:48,757: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Athletic Footwear"]
+[2023-10-11 21:26:48,769: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:26:56,000: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:56,001: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:26:56,001: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:56,004: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:26:56,011: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:26:56,012: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:26:56,026: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:27:00,346: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast']
+[2023-10-11 21:27:00,348: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:27:00,349: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:27:00,353: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:27:00,363: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast']
+[2023-10-11 21:27:00,364: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:27:00,372: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:27:03,580: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South']
+[2023-10-11 21:27:03,582: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:27:03,583: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:27:03,587: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:27:03,596: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South']
+[2023-10-11 21:27:03,597: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:27:03,607: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:27:06,776: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South', 'Midwest']
+[2023-10-11 21:27:06,777: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:27:06,777: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:27:06,782: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:27:06,789: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Southeast', 'South', 'Midwest']
+[2023-10-11 21:27:06,790: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Apparel" "Women's Apparel" "Men's Street Footwear"
+ "Men's Athletic Footwear" "Women's Street Footwear"
+ "Women's Athletic Footwear"]
+[2023-10-11 21:27:06,801: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:27:09,474: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:27:09,476: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:27:09,476: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:27:09,483: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:27:09,504: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:27:09,505: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:27:09,518: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:27:17,456: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:27:17,457: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:27:17,457: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-11 21:27:17,459: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:27:17,465: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:27:17,466: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel"]
+[2023-10-11 21:27:17,473: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:27:20,544: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:27:20,545: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:27:20,546: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-11 21:27:20,552: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:27:20,563: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:27:20,564: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear"]
+[2023-10-11 21:27:20,581: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:27:22,278: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:27:22,279: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:27:22,280: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Street Footwear"]
+[2023-10-11 21:27:22,286: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:27:22,294: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:27:22,295: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Women's Apparel", "Women's Street Footwear", "Men's Street Footwear"]
+[2023-10-11 21:27:22,302: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.
+[2023-10-11 21:27:44,044: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:27:44,045: INFO: data_filter] - Années sélectionnées pour le filtrage des données : [2020 2021]
+[2023-10-11 21:27:44,045: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:27:44,055: INFO: data_filter] - Le DataFrame filtré a été retourné avec succès.
+[2023-10-11 21:27:44,067: INFO: data_filter] - Les régions sélectionnées pour le filtrage des données : ['Northeast' 'South' 'West' 'Midwest' 'Southeast']
+[2023-10-11 21:27:44,068: INFO: data_filter] - Produits sélectionnés pour le filtrage des données : ["Men's Street Footwear" "Men's Athletic Footwear"
+ "Women's Street Footwear" "Women's Athletic Footwear" "Men's Apparel"
+ "Women's Apparel"]
+[2023-10-11 21:27:44,080: INFO: data_filter] - Le DataFrame de Total Sales par mois a été créé avec succès.

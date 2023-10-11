@@ -1,0 +1,117 @@
+div.block-container{
+    padding-top:1rem;
+}
+
+#analyse-des-ventes-adidas-tendances-et-performances{
+    background-color:aqua;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+/*div.css-12w0qpk.e1f1d6gn1{
+    background-color: burlywood;
+    padding-left: 9%;
+    border: 2px solid black;
+    border-radius: 30px;
+    
+    
+}
+*/
+div.css-12w0qpk.e1tzin5v1{
+    background-color:orange;
+    padding-left: 9%;
+    border: 2px solid black;
+    border-radius: 30px;
+    
+
+}
+
+
+#distribution-des-ventes-en-fonction-de-la-m-thode-de-vente-pour-chaque-d-taillant{
+    background-color:aqua;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    font-size: large;
+}
+#volution-de-la-quantit-de-ventes-par-trimestre{
+    background-color:aqua;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    font-size: large;
+}
+
+#tendance-des-ventes-de-produits-en-selon-les-diff-rents-tats{
+    background-color:aqua;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    font-size: large;
+}
+
+#quantit-de-ventes-par-d-taillant{
+    background-color:aqua;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    font-size: large;
+}
+
+#foot-locker{
+    background-color:orange;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#west-gear{
+    background-color:orange;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#sports-direct{
+    background-color:orange;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#walmart{
+    background-color:orange;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#kohl-s{
+    background-color:orange;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+#amazon{
+    background-color:orange;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#volution-des-ventes-mensuelles-par-ann-e{
+    background-color:aqua;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    font-size: large;
+}
+
+#r-partition-des-b-n-fices-par-genre-d-taillant-et-m-thode-de-vente{
+    background-color:aqua;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    font-size: large;
+}
