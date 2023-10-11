@@ -24,6 +24,12 @@ L'application sera accessible à l'adresse : 'http://localhost:8501'.
 ## Démonstration
 https://github.com/Julesba97/sales-adidas-streamlit-app/assets/102261674/d6e36c44-afb6-4f57-9527-819f3921ed0d
 
+## Accéder à l'Application Déployée
+
+L'application est actuellement déployée et accessible via le lien suivant :
+
+[Sales Adidas Analytics](https://sales-adidas-analytics.streamlit.app/)
+
 
 
 ## Licence 
